@@ -22,7 +22,7 @@ I'm a **Senior Mobile App Developer** with a strong passion for crafting seamles
 - ⚙️ CI/CD: GitHub Actions, Codemagic
 - 📲 App Store / Play Store Deployment
 - ☁️ Firebase Hosting, Supabase Edge Functions
-- 🐳 Docker (basic)
+- 🐳 Docker
 
 ---
 
