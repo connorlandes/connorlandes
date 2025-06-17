@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Connor!
 
 I'm a **Senior Mobile App Developer** with a strong passion for crafting seamless user experiences and scalable systems. I specialize in building high-quality **iOS** and **Android** apps using **Flutter**, and I have solid experience developing **RESTful APIs** using **Node.js**, **Express.js**, and **PostgreSQL**.
 
@@ -26,12 +26,3 @@ I'm a **Senior Mobile App Developer** with a strong passion for crafting seamles
 
 ---
 
-## 🧩 Featured Projects
-
-| App | Description | Tech |
-|-----|-------------|------|
-| 📱 **MyApp** | Cross-platform productivity app with offline support and sync | Flutter, Firebase |
-| 🛍️ **ShopEase API** | Backend for e-commerce app with admin dashboard | Node.js, Express.js, PostgreSQL |
-| 🧘 **Wellness Tracker** | Health tracking app with analytics & daily goals | Flutter, Supabase, Charts |
-
----
